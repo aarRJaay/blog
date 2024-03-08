@@ -1,0 +1,25 @@
+body {
+  font-family: 'Sans Serif';
+}
+
+header {
+
+  background: darkblue;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.blog-item {
+  display: flex;
+  background: darkblue;
+  color: white;
+}
+
+footer {
+  font-weight: bold;
+  background: purple;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
