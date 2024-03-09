@@ -5,5 +5,4 @@
   publish = "public"
 
   # Default build command.
-  # command = "npm run build" 
-  CI = "npm run build" 
+  command = "npx run build" 
