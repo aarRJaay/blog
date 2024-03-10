@@ -14,6 +14,9 @@ but this time it's also using a markdown file
 ## Third paragraph
 This is to check the automatic re-deploy
 
+## Fourth paragraph
+Confirming that it did work!!  Whoop - Love <a href="netlify.app">Netlify</a>
+
 {% for blog in collections.blogs  %}
 <div class="blog-item">
     <a href="{{blog.url}}">{{ blog.data.title}}</a>
